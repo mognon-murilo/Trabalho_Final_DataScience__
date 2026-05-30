@@ -32,3 +32,11 @@ streamlit run dashboard/app.py
 ```
 
 Acesse em: **http://localhost:8501**
+
+## 5. Gerar o relatório PDF
+
+```bash
+python report/gerar_relatorio.py
+```
+
+O PDF será salvo em `report/Relatorio_Tecnico.pdf`.

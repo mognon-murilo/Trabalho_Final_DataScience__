@@ -29,3 +29,6 @@ scipy
 # --- Notebook ---
 jupyter
 ipykernel
+
+# --- Relatório PDF ---
+reportlab
